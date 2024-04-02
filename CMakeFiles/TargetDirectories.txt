@@ -1,0 +1,4 @@
+/home/do/Desktop/do_code/240306_mesh_deduplicator_cuda/CMakeFiles/rebuild_cache.dir
+/home/do/Desktop/do_code/240306_mesh_deduplicator_cuda/CMakeFiles/edit_cache.dir
+/home/do/Desktop/do_code/240306_mesh_deduplicator_cuda/CMakeFiles/run.dir
+/home/do/Desktop/do_code/240306_mesh_deduplicator_cuda/CMakeFiles/cuda_lib.dir
